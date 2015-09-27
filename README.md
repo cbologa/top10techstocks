@@ -7,5 +7,5 @@ Thank you for evaluating my work for this project assignment. This very small an
 * In the *Predict* tab, change the start of the prediction period (only since the begining of the 2015 until now), and see how the predicted values and intervals change.
 
 **Comments**
-This application is not intended to solve a real world problem, but only to satisfy the requirements of the project assignment. Although it is possible to make it more robust and more general, I chose not to do it in order to make it faster to run and easier to evaluate. For those reasons I chose to not validate any inputs, and to not retrieve stock market data online, but to download it for only 10 large technology companies.
+This demo application is not intended to solve a real world problem, but only to demonstrate basic shiny functionality and satisfy the requirements of the project assignment. Although it is possible to make it more robust and more general, I chose not to do it in order to make it faster to run and easier for you to evaluate it. For those reasons I chose to not validate any inputs, and to not retrieve stock market data online, but to download it for only 10 large technology companies.
  
